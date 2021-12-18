@@ -1,3 +1,11 @@
+The Pan Card Tampering Detection App: 
+
+---> This app allows the organization to filter and detect the fraudlent Id's uploaded by their employees or customers by using Computer Vision.
+
+
+
+
+
 Step to run application:
 Step 1:	Create the copy of the project.
 Step 2: Open command prompt and change your current path 
