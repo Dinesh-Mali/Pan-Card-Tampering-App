@@ -1,6 +1,6 @@
 # Important imports
-from app import app
 from flask import request, render_template
+from app import app
 import os
 from skimage.metrics import structural_similarity
 import imutils
