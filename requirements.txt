@@ -12,6 +12,7 @@ defusedxml==0.7.1
 entrypoints==0.3
 Flask==2.0.2
 fonttools==4.28.1
+gunicorn
 ipykernel==6.5.0
 ipython==7.29.0
 ipython-genutils==0.2.0
